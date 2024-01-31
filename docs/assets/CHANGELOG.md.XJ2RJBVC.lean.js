@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as h,V as t}from"./chunks/framework.FMYHWrFI.js";const b=JSON.parse('{"title":"others-ui-docs","description":"","frontmatter":{},"headers":[],"relativePath":"CHANGELOG.md","filePath":"CHANGELOG.md"}'),l={name:"CHANGELOG.md"},i=t("",13),s=[i];function c(r,o,n,d,u,p){return h(),e("div",null,s)}const P=a(l,[["render",c]]);export{b as __pageData,P as default};
