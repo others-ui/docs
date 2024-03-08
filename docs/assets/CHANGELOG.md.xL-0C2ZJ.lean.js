@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as h,V as l}from"./chunks/framework.4O-59sfZ.js";const b=JSON.parse('{"title":"others-ui-docs","description":"","frontmatter":{},"headers":[],"relativePath":"CHANGELOG.md","filePath":"CHANGELOG.md"}'),t={name:"CHANGELOG.md"},i=l("",25),d=[i];function n(c,s,r,o,u,p){return h(),e("div",null,d)}const P=a(t,[["render",n]]);export{b as __pageData,P as default};

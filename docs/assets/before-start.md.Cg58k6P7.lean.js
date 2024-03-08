@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,V as r}from"./chunks/framework.FMYHWrFI.js";const f=JSON.parse('{"title":"什么是OthersUI?","description":"","frontmatter":{},"headers":[],"relativePath":"before-start.md","filePath":"before-start.md"}'),a={name:"before-start.md"},s=r("",3),c=[s];function _(n,d,i,l,h,p){return o(),t("div",null,c)}const u=e(a,[["render",_]]);export{f as __pageData,u as default};
